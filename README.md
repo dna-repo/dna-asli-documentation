@@ -1,3 +1,4 @@
 ## ASLI Documentation
 
-## Frontend
+## [Frontend](./backend/README.md)
+## [Frontend](./frontend/README.md)
