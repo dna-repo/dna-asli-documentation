@@ -1,3 +1,1 @@
-## Frontend
-
-Read documentation here [here]()
+## Frontend Documentation
